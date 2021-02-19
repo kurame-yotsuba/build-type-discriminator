@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace BuildTypeDiscriminator
+namespace DllBitDiscriminator
 {
 	internal class Program
 	{
